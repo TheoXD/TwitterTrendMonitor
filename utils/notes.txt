@@ -1,0 +1,2 @@
+npm install -g shelljs
+export NODE_PATH=$NODE_PATH:`npm root -g`

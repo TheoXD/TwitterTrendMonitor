@@ -1,0 +1,19 @@
+{
+  "name": "twittermon",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^2.2.2",
+    "express": "^4.16.3",
+    "form-data": "^2.3.2",
+    "socket.io": "^2.1.1",
+    "twitter": "^1.7.1"
+  }
+}
